@@ -1,0 +1,6 @@
+bir kisim kodlar yazdim .
+oley git ogreniyoruz
+git init komutunu projemize iliskilendirmek icin sadece bir kez kullaniriz
+yeni kodlar
+version 1
+------------------------------------------------------
