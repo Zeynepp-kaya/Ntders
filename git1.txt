@@ -4,3 +4,4 @@ git init komutunu projemize iliskilendirmek icin sadece bir kez kullaniriz
 yeni kodlar
 version 1
 ------------------------------------------------------
+git commit -m ile bir mesajla birlikte commit olusturabilirizz
