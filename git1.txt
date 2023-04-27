@@ -8,3 +8,4 @@ git commit -m ile bir mesajla birlikte commit olusturabilirizz
 --------------
 sdsfgh
 yeni deneme kodlari guncelledim
+//lokalde degisiklik yaptim
