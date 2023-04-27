@@ -7,3 +7,4 @@ version 1
 git commit -m ile bir mesajla birlikte commit olusturabilirizz
 --------------
 sdsfgh
+yeni deneme kodlari guncelledim
